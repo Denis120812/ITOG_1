@@ -7,3 +7,8 @@
 Console.WriteLine("Введите элементы массива через пробел:");
 string[] inputArray = Console.ReadLine().Split();
 
+// Создание нового массива для хранения строк
+string[] resultArray = new string[inputArray.Length];
+int resultIndex = 0;
+
+
