@@ -22,3 +22,7 @@ foreach (string str in inputArray)
 }
 
 
+// Создание окончательного массива 
+string[] finalResultArray = new string[resultIndex];
+Array.Copy(resultArray, finalResultArray, resultIndex);
+
