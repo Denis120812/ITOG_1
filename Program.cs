@@ -11,4 +11,14 @@ string[] inputArray = Console.ReadLine().Split();
 string[] resultArray = new string[inputArray.Length];
 int resultIndex = 0;
 
+// заполнение нового массива до 3 элементов
+foreach (string str in inputArray)
+{
+    if (str.Length <= 3)
+    {
+        resultArray[resultIndex] = str;
+        resultIndex++;
+    }
+}
+
 
