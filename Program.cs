@@ -26,3 +26,17 @@ foreach (string str in inputArray)
 string[] finalResultArray = new string[resultIndex];
 Array.Copy(resultArray, finalResultArray, resultIndex);
 
+
+// Вывод 
+Console.Write("[");
+for (int i = 0; i < finalResultArray.Length; i++)
+{
+    Console.Write("\"" + finalResultArray[i] + "\"");
+    if (i < finalResultArray.Length - 1)
+    {
+        Console.Write(", ");
+    }
+}
+Console.WriteLine("]");
+
+
