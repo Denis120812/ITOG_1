@@ -1,0 +1,14 @@
+/Users/denissh/Desktop/GB/C#/111/bin/Debug/net8.0/111
+/Users/denissh/Desktop/GB/C#/111/bin/Debug/net8.0/111.deps.json
+/Users/denissh/Desktop/GB/C#/111/bin/Debug/net8.0/111.runtimeconfig.json
+/Users/denissh/Desktop/GB/C#/111/bin/Debug/net8.0/111.dll
+/Users/denissh/Desktop/GB/C#/111/bin/Debug/net8.0/111.pdb
+/Users/denissh/Desktop/GB/C#/111/obj/Debug/net8.0/111.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denissh/Desktop/GB/C#/111/obj/Debug/net8.0/111.AssemblyInfoInputs.cache
+/Users/denissh/Desktop/GB/C#/111/obj/Debug/net8.0/111.AssemblyInfo.cs
+/Users/denissh/Desktop/GB/C#/111/obj/Debug/net8.0/111.csproj.CoreCompileInputs.cache
+/Users/denissh/Desktop/GB/C#/111/obj/Debug/net8.0/111.dll
+/Users/denissh/Desktop/GB/C#/111/obj/Debug/net8.0/refint/111.dll
+/Users/denissh/Desktop/GB/C#/111/obj/Debug/net8.0/111.pdb
+/Users/denissh/Desktop/GB/C#/111/obj/Debug/net8.0/111.genruntimeconfig.cache
+/Users/denissh/Desktop/GB/C#/111/obj/Debug/net8.0/ref/111.dll
